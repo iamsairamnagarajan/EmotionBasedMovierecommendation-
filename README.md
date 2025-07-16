@@ -18,7 +18,7 @@ It's your mood-based movie genie 🧞‍♂️!
 ## 💻 Demo
 
 ```bash
-$ python script.py
+$ python Main.py
 Enter the emotion First Letter Cap: Comedy
 
 Thug Life  
